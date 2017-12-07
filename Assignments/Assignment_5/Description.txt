@@ -1,0 +1,5 @@
+Ok, here we train a classifier (inspired by Kaggle) to see if we can predict if a driver will file a claim within the next year.
+XGBoost, Linear Regression are our friends in this one.
+Also, I've played around with the parameters a lot so forgive the sloppiness of this folder.
+
+Enjoy!
