@@ -1,0 +1,4 @@
+Ok, last one! This is an old school way (at least that's what our professor told us) of doing facial recognition!
+A lot of this is still very new to me but I hope to learn and post more on this machine learning stuff in the near
+future.
+Enjoy!
